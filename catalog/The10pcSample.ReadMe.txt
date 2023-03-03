@@ -1,0 +1,98 @@
+                                               (Author C. Reylé, Date 30/042021)
+================================================================================
+Title The 10 parsec sample in the Gaia era
+    C. Reylé, K. Jardine, P. Fouqué, J.A. Caballero, R.L. Smart, A. Sozzetti
+    ref
+================================================================================
+Keywords: Stars: nearby ; Stars: parallaxes ; stars: late-type ; stars:  
+    planetary systems ; Galaxy: solar neighbourhood  ; Galaxy: stellar content ;
+    catalogues
+     
+Abstract:
+  We provide a catalogue of 540 stars, brown dwarfs, and exoplanets in 339 
+  systems, within 10 pc from the Sun. Astrometry, photometry, spectral types, 
+  and line-of-sight velocities are given when available. This list is as 
+  volume-complete as possible from current knowledge and provides benchmark 
+  stars that can be used, for instance, to define calibration samples and 
+  to test the quality of the forthcoming Gaia releases. It also has a strong
+  outreach potential.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName    Lrecl   Records       Explanations
+--------------------------------------------------------------------------------
+ReadMe              80        .    this file
+The10pcSample.dat   930       560  the 10 pc catalogue
+
+
+--------------------------------------------------------------------------------
+Byte-by-byte Description of file: The10pcSample.dat
+--------------------------------------------------------------------------------
+ Bytes    Format Units  Label            Explanations
+--------------------------------------------------------------------------------
+  1-  4   I4     ---    NB_OBJ           Running number for object
+  6-  9   I4     ---    NB_SYS           Running number for system
+ 11- 36   A26    ---    SYSTEM_NAME      Name of the system
+ 38- 43   A6     ---    OBJ_CAT          Star (*), LM (low mass star), BD (brown
+                                       dwarf), WD (white dwarf), or Planet
+ 45- 72   A28    ---    OBJ_NAME         Name of the object
+ 74- 87   F14.9  ---    RA               Right ascension in ICRS
+ 89-102   F14.9  ---    DEC              Declination in ICRS
+104-109   F6.1   ---    EPOCH            Epoch for position
+111-118   F8.4   ---    PARALLAX         Parallax
+120-127   F8.4   ---    PARALLAX_ERROR   Parallax uncertainty
+129-159   A31    ---    PARALLAX_BIBCODE Reference for the parallax
+161-176   F16.9  ---    PMRA             Proper motion in right ascension
+178-193   F16.9  ---    PMRA_ERROR       Proper motion uncertainty in right 
+                                       ascension
+195-210   F16.9  ---    PMDEC            Proper motion in declination
+212-227   F16.9  ---    PMDEC_ERROR      Proper motion uncertainty in 
+                                       declination
+229-258   A30    ---    PM_BIBCODE       Reference for proper motion
+260-268   F9.4   ---    RV               Line-of-sight velocity
+270-278   F9.4   ---    RV_ERROR         Line-of-sight velocity uncertainty
+280-298   A19    ---    RV_BIBCODE       Reference for line-of-sight velocity
+300-307   A8     ---    SP_TYPE          Spectral type
+309-333   A25    ---    SP_BIBCODE       Reference for spectral type
+335-346   A12    ---    SP_METHOD        Method used to derive the spectral type
+348-349   I2     ---    G_CODE           =2 if G from Gaia DR2 ; =3 if G from 
+                                       Gaia EDR3 ; =10 if G derived from
+                                       spectral type ; =20 for spectral type >T6
+                                       (arbitrarily set to absolute G mag = 25)
+351-358   F8.5   ---    G                Gaia G band magnitude measured, given 
+                                       only if G_CODE is 2 or 3
+360-365   F6.2   ---    G_ESTIMATE       Gaia G band magnitude estimated, given
+                                       only if G_CODE is 10 or 20
+367-374   F8.5   ---    GBP              Gaia BP band magnitude measured, given
+                                       only if G_CODE is 2 or 3
+376-383   F8.5   ---    GRP              Gaia RP band magnitud emeasured, given
+                                       only if G_CODE is 2 or 3
+385-390   F6.3   ---    U              U band magnitude
+392-397   F6.3   ---    B              B band magnitude
+399-404   F6.3   ---    V              V band magnitude
+406-411   F6.3   ---    R              R band magnitude
+413-418   F6.3   ---    I              I band magnitude
+420-425   F6.3   ---    J              J band magnitude
+427-432   F6.3   ---    H              H band magnitude
+434-439   F6.3   ---    K              Ks band magnitude
+441-459   A19    ---    SYSTEM_BIBCODE   Reference for multiplicity or
+                                       exoplanets
+461-461   I1     ---    EXOPLANET_COUNT  Number of confirmed exoplanets
+463-481   I19    ---    GAIA_DR2         Gaia DR2 identifier
+483-501   I19    ---    GAIA_EDR3        Gaia EDR3 identifier
+503-528   A26    ---    SIMBAD_NAME      Name resolved by SIMBAD
+530-546   A17    ---    COMMON_NAME      Common name
+548-557   A10    ---    GJ               Gliese & Jahreiss catalogue identifier
+559-570   A12    ---    HD               Henry Draper catalogue identifier
+572-581   A10    ---    HIP              Hipparcos catalogue identifier
+583-930   A348   ---    COMMENT          Additional comments on exoplanets,
+                                       multiplicity, etc
+
+--------------------------------------------------------------------------------
+
+See also:
+ https://gruze.org/10pc/
+ https://gucds.inaf.it/
+ 
+================================================================================
+(prepared by C. Reylé [OSU THETA, UBFC celine.reyle@obs-besancon.fr] / pyreadme)
