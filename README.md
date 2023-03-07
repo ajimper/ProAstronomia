@@ -22,7 +22,7 @@ El [Readme](<./catalog/The10pcSample.ReadMe.txt>) original del catálogo tambié
 
 La exploración del catálogo, para familiarizarse con las columnas y los valores, e incluso el procesamiento y la graficación final pueden realizarse directamente sobre el documento de Excel (con programación), pero para la experiencia colaborativa, se recomienda el trabajo a partir del archivo programado en Jupyter (Python interactivo), accesible en este repositorio como [maqueta_estrellas_cercanas.ipynb](<./maqueta_estrellas_cercanas.ipynb>). Este documento solo plantea el problema y presenta las posibilidades de la biblioteca `astroPy`. El problema no queda resuelto, de manera deliberada, puesto que se propone una búsqueda colaborativa de la solución o, incluso, soluciones según versiones adaptadas a la implementación de cada grupo o individuo participante, tal como sucede en la vida real.  
 
-#### Columnas de interés del catálogo y su posible representación :
+#### Columnas de interés del catálogo y su posible representación
 
 El catálogo provee las coordenadas heliocéntricas de los objetos (*AR* y *d*, así como el vector de movimiento propio y la época de las coordenadas que se consignan). También contiene el ángulo de paralaje, que se requiere para obtener la distancia a cada objeto. Esto implica una representación en coordenadas polares (con centro en el Sol) que deben convertirse a coordenadas cartesianas con una reducción a escala, para la construcción de la maqueta.
 
@@ -47,23 +47,36 @@ Conformar un grupo, ya sea integrado por participantes individuales o por subgru
 
 1. **Gestión de la información**: Conseguir información en la red (artículos, tutoriales, códigos fuentes) , traducirla, si es necesario, y ponerla al alcance del equipo. Gestionar los espacios digitales donde se actualice información sobre el desarrollo del proyecto. Conformar la documentación de uso del prototipo en las plataformas que se decida.
 2. **Astronomía, astrofísica y astrobiología**: Estudiar las áreas de interés de las disciplinas implicadas, tales como astrometría (transformaciones de unidades, cambio de sistemas de coordenadas, movimiento propio y época), fotometría (conversión entre los datos de sensor del satélite en el catálogo y los sistemas fotométricos estándar), astrofísica estelar (luminosidad, clases espectrales), astrobiología (sistemas planetarios, habitabilidad), historia de la astronomía (condiciones de descubrimiento y origen del nombre de los objetos a considerar).
-3. **Programación**: Estudiar las bibliotecas necesarias para el proyecto. Estudiar la estructura del catálogo. Concebir los algoritmos y estructuras de datos. Programar las trasnformaciones de los parámetros físicos de los objetos y la graficación de los bocetos de la maqueta.
-4. **Diseño**: Discutir las mejores maneras de representar las variables del catálogo en un objeto museal. Otras formas de interactividad, ya sea en la propia maqueta o en soportes digitales que la acompañen o independientes, serán admisibles, según la creatividad y la experiencia previa que aporten los miembros del equipo.
+3. **Programación**: Estudiar las bibliotecas necesarias para el proyecto. Estudiar la estructura del catálogo. Concebir los algoritmos y estructuras de datos. Programar las transformaciones de los parámetros físicos de los objetos y la graficación de los bocetos de la maqueta.
+4. **Diseño**: Discutir las mejores maneras de representar las variables del catálogo en un objeto museal. Serán admisibles otras formas de interactividad, ya sea en la propia maqueta, en soportes digitales que la acompañen o independientes, según la creatividad y la experiencia previa que aporten los miembros del equipo.
 5. **Desarrollo**: Proveer las soluciones técnicas y los materiales para elaborar los planos para la construcción del prototipo. Eventualmente, construir la maqueta, aplicaciones digitales, etc. .
 6. **Estudio de los objetos del catálogo y documentación**: El empleo del resultado como medio educativo requerirá cosechar documentación sobre los sistemas estelares y planetarios, habitabilidad, condiciones de descubrimiento, curiosidades, bibliografía (el catálogo brinda ya alguna). Esta información, no solo es de interés para el equipo, sino también para la documentación que se elabore para el público o para representar en posibles soluciones interactivas.
 7. **Coordinación del proyecto**: Garantizar la comunicación y arbitrar en las decisiones colectivas entre los equipos y establecerá los tiempos para que se cumplan las subtareas.      
 
-Es evidente que ningún equipo puede trabajar por separado. La toma de decisiones en un área implica la consulta de dominios investigados y decisiones tomadas por otras áreas. Estas, a su vez, pueden necesitar pasar los resultados del trabajo de otra área para garantizar la continuidad de la tarea, que, en todo caso, debe enfrentarse como un trabajo colectivo, tal como sucede en los proyectos de la vida real. 
+Es evidente que ningún equipo puede trabajar por separado. La toma de decisiones en un área implica la consulta de dominios investigados y decisiones tomadas por otras áreas. Estas, a su vez, pueden necesitar pasar los resultados del trabajo de otra área para garantizar la continuidad de la tarea, que, en todo caso, debe enfrentarse como un trabajo colectivo, tal como sucede en los proyectos de la vida real.
 
-### Referencias
-#### Astrofísica
-[*Astrophysics is Easy. An Introduction to the Amateur Astronomer* de Briam Inglis](<https://archive.org/download/AstrophysicsIsEasyAnIntroductionToTheAmateurAstronomer/AstrophysicsIsEasy.pdf>).
-#### Programación
+Se aspirará a culminar el proyecto en dos fases. 
+
+- La primera espera obtener los planos y listados de materiales, así como los materiales de base que permitan elaborar una documentación para su uso. Esta fase es obligatoria para haber vencido la tarea.
+- La segunda tiene como objetivo la fabricación del prototipo y la producción de a documentación para su uso. Esta fase es opcional, puesto que puede demandar financiamiento para obtener los materiales necesarios, pero se estimula su culminación, que será premiada por la obtención de un objeto funcional, científicamente elaborado.
+
+#### Referencias
+
+##### Astrofísica
+
+[*Astrophysics is Easy. An Introduction to the Amateur Astronomer* de Brian Inglis](<https://archive.org/download/AstrophysicsIsEasyAnIntroductionToTheAmateurAstronomer/AstrophysicsIsEasy.pdf>).
+
+Este libro es introductorio pero trata todos los tópicos básicos de la astrofísica y estimula la observación de los objetos que se van estudiando a modo de ejemplo. Muy recomendable. Existen dos ediciones, pero, a los efectos de este proyecto, cualquiera es útil.
+
+##### Programación
+
 - [Curso de Python para Astronomía. Instituto de Astrofísica de Canarias](<http://research.iac.es/sieinvens/python-course/>).
 - [Practical Python for Astronomers Tutorial](<http://python4astronomers.github.com/>).
 - [Astropy (Documentación oficial de la biblioteca Astropy)](<http://docs.astropy.org/>).
 - [Learn Astropy : Home (Documentación de la biblioteca Astropy)](<https://learn.astropy.org/>).
 - [Astropy Tutorials](<https://github.com/astropy/astropy-tutorials/>).
+
+### 2. Otros proyectos... (en desarrollo)
 
 ### Contacto:
 
