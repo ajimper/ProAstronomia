@@ -56,8 +56,14 @@ Conformar un grupo, ya sea integrado por participantes individuales o por subgru
 Es evidente que ningún equipo puede trabajar por separado. La toma de decisiones en un área implica la consulta de dominios investigados y decisiones tomadas por otras áreas. Estas, a su vez, pueden necesitar pasar los resultados del trabajo de otra área para garantizar la continuidad de la tarea, que, en todo caso, debe enfrentarse como un trabajo colectivo, tal como sucede en los proyectos de la vida real. 
 
 ### Referencias
-
-
+#### Astrofísica
+[*Astrophysics is Easy* de Briamn Inglis](<https://archive.org/details/AstrophysicsIsEasyAnIntroductionToTheAmateurAstronomer>).
+#### Programación
+- [Curso de Python para Astronomía. Instituto de Astrofísica de Canarias (<http://research.iac.es/sieinvens/python-course/>).
+- [Practical Python for Astronomers Tutorial](<http://python4astronomers.github.com/>).
+- [Astropy (Documentación oficial de la biblioteca Astropy)](<http://docs.astropy.org/>).
+- [Learn Astropy : Home (Documentación de la biblioteca Astropy)](<https://learn.astropy.org/>).
+- [Astropy Tutorials] (<https://github.com/astropy/astropy-tutorials/>).
 
 ### Contacto:
 
