@@ -57,13 +57,13 @@ Es evidente que ningún equipo puede trabajar por separado. La toma de decisione
 
 ### Referencias
 #### Astrofísica
-[*Astrophysics is Easy* de Briamn Inglis](<https://archive.org/details/AstrophysicsIsEasyAnIntroductionToTheAmateurAstronomer>).
+[*Astrophysics is Easy. An Introduction to the Amateur Astronomer* de Briam Inglis](<https://archive.org/download/AstrophysicsIsEasyAnIntroductionToTheAmateurAstronomer/AstrophysicsIsEasy.pdf>).
 #### Programación
 - [Curso de Python para Astronomía. Instituto de Astrofísica de Canarias (<http://research.iac.es/sieinvens/python-course/>).
 - [Practical Python for Astronomers Tutorial](<http://python4astronomers.github.com/>).
 - [Astropy (Documentación oficial de la biblioteca Astropy)](<http://docs.astropy.org/>).
 - [Learn Astropy : Home (Documentación de la biblioteca Astropy)](<https://learn.astropy.org/>).
-- [Astropy Tutorials] (<https://github.com/astropy/astropy-tutorials/>).
+- [Astropy Tutorials](<https://github.com/astropy/astropy-tutorials/>).
 
 ### Contacto:
 
