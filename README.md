@@ -28,7 +28,7 @@ El catálogo provee las coordenadas heliocéntricas de los objetos (*AR* y *d*, 
 
 Un primer punto de discusión serían las dimensiones del objeto final (lo mismo podría concebirse como una escultura monumental en un vestíbulo o como un objeto pequeño para colocar en una vitrina o en una mesa). De ellas puede depender la consideración de la escala y de la cantidad de sistemas estelares que se van a representar en la maqueta (o lo que es lo mismo, la distancia de corte del sub-catálogo a procesar, que corresponde al diámetro de una esfera imaginaria con centro en el Sol).
 
-<img src="D:\Taller Astro\Maqueta estrellas cercanas\jupyter\img\maqueta.png" alt="tarea" style="zoom:20%;" />
+<img src="./img/maqueta.png" alt="tarea" style="zoom:20%;" />
 
 En el catálogo, cada fila es una estrella, un objeto sub-estelar o un planeta, y los miembros de los mismos sistemas estelares comparten un id común (ver detalles en la documentación). Para cada sistema estelar se necesita obtener del catálogo o calcular una serie de parámetros que serán las propiedades de pequeñas esferas colocadas a diferentes alturas en un tensor vertical, como se muestra en la figura anterior (se admiten otras soluciones de diseño con una propuesta de ejecución factible, o incluso soluciones completamente virtuales e interactivas):
 
