@@ -16,7 +16,7 @@ Se toma este material de base este catálogo porque está actualizado (23 de abr
 - [CSV](<./catalog/The10pcSample.csv>) (valores separados por comas)
 - [MS Excel](<./catalog/The10pcSample.xlsx>)  (hoja de cálculo)
 
-El [Readme](<./catalog/The10pcSample.ReadMe.txt>) original del catálogo también está disponible. Contiene información sumaria sobre las columnas y otros detalles de interés. Más detalles pueden encontrarse en el artículo citado previamente en [este repositorio](<./catalog/The10pcSample.pdf>).
+El [Readme](<./catalog/The10pcSample.ReadMe.txt>) original del catálogo también está disponible. Contiene información sumaria sobre las columnas y otros detalles de interés. Más detalles pueden encontrarse en el artículo citado previamente en [este repositorio. (<./catalog/The%2010%20parsec%20sample%20in%20the%20Gaia%20era%20-%20Reyl%C3%A9%2C%20C.%20%26%20P.%20%26%20Caballero%2C%20J.%20A.%20%26%20Smart%2C%20R.%20L.%20%26%20Sozzetti%2C%20A_.pdf>).
 
 **Antes de seguir adelante, es conveniente una revisión y familiarización con estos materiales, para entender el significado astrofísico de los datos que contiene el catálogo de estrellas cercanas de Gaia y qué uso puede hacerse de ellos.**
 
