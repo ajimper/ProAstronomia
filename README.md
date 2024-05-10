@@ -16,7 +16,7 @@ Se toma este material de base este catálogo porque está actualizado (23 de abr
 - [CSV](<./catalog/The10pcSample.csv>) (valores separados por comas)
 - [MS Excel](<./catalog/The10pcSample.xlsx>)  (hoja de cálculo)
 
-El [Readme](<./catalog/The10pcSample.ReadMe.txt>) original del catálogo también está disponible. Contiene información sumaria sobre las columnas y otros detalles de interés. Más detalles pueden encontrarse en el artículo citado previamente en [este repositorio. (<./catalog/The%2010%20parsec%20sample%20in%20the%20Gaia%20era%20-%20Reyl%C3%A9%2C%20C.%20%26%20P.%20%26%20Caballero%2C%20J.%20A.%20%26%20Smart%2C%20R.%20L.%20%26%20Sozzetti%2C%20A_.pdf>).
+El [Readme](<./catalog/The10pcSample.ReadMe.txt>) original del catálogo también está disponible. Contiene información sumaria sobre las columnas y otros detalles de interés. Más detalles pueden encontrarse en el artículo citado previamente en [este repositorio.](<./catalog/The%2010%20parsec%20sample%20in%20the%20Gaia%20era%20-%20Reyl%C3%A9%2C%20C.%20%26%20P.%20%26%20Caballero%2C%20J.%20A.%20%26%20Smart%2C%20R.%20L.%20%26%20Sozzetti%2C%20A_.pdf>).
 
 **Antes de seguir adelante, es conveniente una revisión y familiarización con estos materiales, para entender el significado astrofísico de los datos que contiene el catálogo de estrellas cercanas de Gaia y qué uso puede hacerse de ellos.**
 
@@ -50,14 +50,15 @@ Conformar un grupo, ya sea integrado por participantes individuales o por subgru
 3. **Programación**: Estudiar las bibliotecas necesarias para el proyecto. Estudiar la estructura del catálogo. Concebir los algoritmos y estructuras de datos. Programar las transformaciones de los parámetros físicos de los objetos y la graficación de los bocetos de la maqueta.
 4. **Diseño**: Discutir las mejores maneras de representar las variables del catálogo en un objeto museal. Serán admisibles otras formas de interactividad, ya sea en la propia maqueta, en soportes digitales que la acompañen o independientes, según la creatividad y la experiencia previa que aporten los miembros del equipo.
 5. **Desarrollo**: Proveer las soluciones técnicas y los materiales para elaborar los planos para la construcción del prototipo. Eventualmente, construir la maqueta, aplicaciones digitales, etc. .
-6. **Estudio de los objetos del catálogo y documentación**: El empleo del resultado como medio educativo requerirá cosechar documentación sobre los sistemas estelares y planetarios, habitabilidad, condiciones de descubrimiento, curiosidades, bibliografía (el catálogo brinda ya alguna). Esta información, no solo es de interés para el equipo, sino también para la documentación que se elabore para el público o para representar en posibles soluciones interactivas.
-7. **Coordinación del proyecto**: Garantizar la comunicación y arbitrar en las decisiones colectivas entre los equipos y establecerá los tiempos para que se cumplan las subtareas.      
+7. **Estudio de los objetos del catálogo y documentación**: El empleo del resultado como medio educativo requerirá cosechar documentación sobre los sistemas estelares y planetarios, habitabilidad, condiciones de descubrimiento, curiosidades, bibliografía (el catálogo brinda ya alguna). Esta información, no solo es de interés para el equipo, sino también para la documentación que se elabore para el público o para representar en posibles soluciones interactivas.
+8. **Coordinación del proyecto**: Garantizar la comunicación y arbitrar en las decisiones colectivas entre los equipos y establecerá los tiempos para que se cumplan las subtareas.      
 
 Es evidente que ningún equipo puede trabajar por separado. La toma de decisiones en un área implica la consulta de dominios investigados y decisiones tomadas por otras áreas. Estas, a su vez, pueden necesitar pasar los resultados del trabajo de otra área para garantizar la continuidad de la tarea, que, en todo caso, debe enfrentarse como un trabajo colectivo, tal como sucede en los proyectos de la vida real.
 
 Se aspirará a culminar el proyecto en dos fases. 
 
 - La primera espera obtener los planos y listados de materiales, así como los materiales de base que permitan elaborar una documentación para su uso. Esta fase es obligatoria para haber vencido la tarea.
+
 - La segunda tiene como objetivo la fabricación del prototipo y la producción de a documentación para su uso. Esta fase es opcional, puesto que puede demandar financiamiento para obtener los materiales necesarios, pero se estimula su culminación, que será premiada por la obtención de un objeto funcional, científicamente elaborado.
 
 #### Referencias
